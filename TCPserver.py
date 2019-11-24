@@ -1,15 +1,3 @@
-"""
-
-Created and Done By:
-
-1. Alfred Pang Wei Yang 1700521
-
-2. Lim Jie Chi 1700421
-
-3. See Toh Sheng Yang 1700154
-
-"""
-
 import socket
 import threading
 
